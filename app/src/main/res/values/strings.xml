@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">KoinPractice</string>
+    <string name="id_s">ID: %s</string>
+    <string name="username_s">Username: %s</string>
+</resources>
